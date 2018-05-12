@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7175'
     url: http://www.gutenberg.org/2009/agents/7175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17152#Rosa-s-Quest--13-Or-The-Way-to-the-Beautiful-Land
 gutenberg_issued: '2005-11-25'
 gutenberg_type: Text
 identifiers:
